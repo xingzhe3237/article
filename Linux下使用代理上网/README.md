@@ -46,6 +46,7 @@ v2ray-core选择最新的即可，我这里最新的是v5.0.3
 ![](6.png)
 
 然后点首选项，再点内核设置，将路径修改为自己放的文件的路径，比如我这里是
+
 	/root/桌面/v2ray/v2ray-linux-64/v2ray
 	/root/桌面/v2ray/v2ray-linux-64
 
