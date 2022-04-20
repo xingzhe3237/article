@@ -16,7 +16,7 @@
 ### 2.1、工具准备
  - APK TOOL：这是谷歌提供的的编译工具，下载地址：[https://ibotpeaches.github.io/Apktool/install/](https://ibotpeaches.github.io/Apktool/install/ "下载地址")
  - dex2jar：将apk反编译成java源码（classes.dex转化成jar文件） 下载地址：[http://sourceforge.net/projects/dex2jar/files/](http://sourceforge.net/projects/dex2jar/files/ "下载地址")
- - jd-gui:用来查看 jar 包里面的代码的一种工具。官网下载地址：[http://jd.benow.ca/](http://jd.benow.ca/)
+ - jd-gui：用来查看 jar 包里面的代码的一种工具。官网下载地址：[http://jd.benow.ca/](http://jd.benow.ca/)
 
 ### 2.2 APTtool
 #### 2.2.1、下载apktool.jar
