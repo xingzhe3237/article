@@ -30,7 +30,7 @@ v2ray-core选择最新的即可，我这里最新的是v5.0.3
 
 ![](4.png)
 
-然后将v2ray-linux-64.zip解压缩并给Qv2ray未见赋予权限。
+然后将v2ray-linux-64.zip解压缩并给Qv2ray赋予权限。
 
 	unzip v2ray-linux-64.zip
 	chmod +x Qv2ray.v2.7.0.linux-x64.AppImage
