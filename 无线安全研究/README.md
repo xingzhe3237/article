@@ -129,7 +129,7 @@ WiFi密码破解主要是利用Linux下的aircrack工具。由于虚拟机不使
 #### 4、设置dns
 	ignore pydns_server
 #### 5、开启钓鱼wifi
-	star
+	start
 ![](17.png)
 
 若成功开启则返回以下内容
