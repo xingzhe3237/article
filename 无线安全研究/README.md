@@ -84,8 +84,11 @@ WiFi密码破解主要是利用Linux下的aircrack工具。由于虚拟机不使
 
 		aircrack‐ng ‐w /usr/share/wordlists/rockyou.txt test‐01.cap
 
-![](11.png)
-9.	结果检验![](12.png)
+
+9.	结果检验
+
+	![](12.png)
+	
 ### 0x04 总结
 感觉就是学习了一个工具的大概使用过程，aircrack-ng原理是使用CPU去跑包，全程不需要联网，破解速度看个人CPU的性能。
 
