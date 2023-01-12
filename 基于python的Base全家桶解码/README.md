@@ -9,18 +9,18 @@ base64.b16encode  # 对字符串进行base16编码
 base64.b16decode  # 对字符串进行base16解码
 base64.b32encode  # 对字符串进行base32编码
 base64.b32decode  # 对字符串进行base32解码
-base58.b58encode
-base58.b58decode
+base58.b58encode  # 对字符串进行base58解码
+base58.b58decode  # 对字符串进行base58解码
 base64.b64encode  # 对字符串进行base64解码
 base64.b64decode  # 对字符串进行base64解码
-base64.a85encode
-base64.a85decode
-base91.encode
-base91.decode
-py3base92.encode
-py3base92.decode
-b128.encode
-b128.decode
+base64.a85encode  # 对字符串进行base85编码
+base64.a85decode  # 对字符串进行base85解码
+base91.encode     # 对字符串进行base91编码
+base91.decode     # 对字符串进行base91解码
+py3base92.encode  # 对字符串进行base92编码
+py3base92.decode  # 对字符串进行base92解码
+b128.encode       # 对字符串进行base128编码
+b128.decode       # 对字符串进行base128解码
 ```
 # 1、base16
 
